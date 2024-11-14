@@ -1,1 +1,1 @@
-# Wavelet-based-MFDFA-of-Statistical-fluctuations
+# Wavelet based multifractal analysis of statistical fluctuations
